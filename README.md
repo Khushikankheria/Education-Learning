@@ -2,6 +2,8 @@
 
 # 📌 About the Project
 Education Learning is an interactive platform designed to make online education more accessible, engaging, and efficient. Whether you're a student or a professional, our platform provides the best resources for seamless learning.
+![Image](https://github.com/user-attachments/assets/6156c095-4132-4493-becd-b53806961191)
+
 # ✨ Features
 - ✅ Easy to Download – Download notes, resources, and tutorials with a single click for offline access.
 - 📖 Easy for Reading – Clean, readable content with adjustable font sizes and dark/light modes.
