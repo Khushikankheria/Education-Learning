@@ -19,7 +19,11 @@ git clone https://github.com/your-username/education-learning.git
 cd education-learning
 
 2.Install dependencies:
+```
 npm i
+```
 
 3.Start the development server:
+```
 npm run dev
+```
